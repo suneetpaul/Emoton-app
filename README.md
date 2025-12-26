@@ -6,14 +6,14 @@ An end-to-end **AI-powered Emotion Detection Web Application** designed to predi
 
 ## 🚀 Live Demo
 🌐 **Streamlit App:**  
-[https://customerchurnprediction-suneet.streamlit.app](https://customerchurnprediction-suneet.streamlit.app)
+[https://customerchurnprediction-suneet.streamlit.app](https://emoton-app-suneetpaul.streamlit.app/)
 
 ---
 
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="assets/emoton_screenshot.png" width="900" alt="Emoton-App Dashboard">
+  <img src="assest/Screenshot 2025-12-25 010141.png" width="900" alt="Emoton-App Dashboard">
 </p>
 
 > *Interactive dashboard allowing users to input text and predict the underlying emotion using a pre-trained ML model.*
